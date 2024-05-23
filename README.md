@@ -1,2 +1,2 @@
 # rust-tcp-server
-eita bixiga dale no servidor em rust
+Implementação de um servidor em rust sem crates adicionais 
